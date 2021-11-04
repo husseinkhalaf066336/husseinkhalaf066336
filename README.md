@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  a Mobile App developer
-- telescope Android Developer at Freelancer
-- speech_balloon Arabic & English
+-  Android Developer at Freelancer
+- Speak: Arabic & English
 - 👀 I’m interested in Android,java, Kotlin, JetPack Compose
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
