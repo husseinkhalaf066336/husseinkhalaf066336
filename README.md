@@ -2,8 +2,8 @@
 -  Android Developer at Freelancer
 - Speak: Arabic & English
 - 👀 I’m interested in Android,java, Kotlin, JetPack Compose
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning More software concepts and techniques
+- 💞️ I’m looking to collaborate on Android application development
 - 📫 How to reach me ...
 
 <!---
