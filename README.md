@@ -1,6 +1,4 @@
-- 👋 Hi, I’m  a Mobile App developer
--  Android Developer at Freelancer
-- Speak: Arabic & English
+- 👋 Hi, I’m  Hussein Khalaf as Android Developer(java, Kotlin,)
 - 👀 I’m interested in Android,java, Kotlin, JetPack Compose
 - 🌱 I’m currently learning More software concepts and techniques
 - 💞️ I’m looking to collaborate on Android application development
